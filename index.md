@@ -1,1 +1,1 @@
- [List of projects](./projects/projects.html)
+ [List of projects](https://antochino.github.io/projects/projects.md)
