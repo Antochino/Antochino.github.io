@@ -1,1 +1,1 @@
- [List of projects](./about/projects.html)
+ [List of projects](./projects/projects.html)
