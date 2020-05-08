@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Welcome to my personal page!
-description: Here you can find my work projects
+title: Welcome to my projects page!
+description: Here you can find list of projects
 ---
 
 
