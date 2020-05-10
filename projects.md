@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Here you can find some list of my projects!
+title: Here you can find list of projects!
 description: Later on I'm going to add more information about my works...
 description: Feel free to bookmark this to keep an eye on my project updates
 ---
