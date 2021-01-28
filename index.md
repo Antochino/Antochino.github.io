@@ -1,2 +1,2 @@
- * [My resume](http://antochino.github.io/resume/anton_ilichev_cv.docx)
+ * [My resume](http://antochino.github.io/resume/)
  * [List of projects](https://antochino.github.io/projects.html)
